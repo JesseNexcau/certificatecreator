@@ -1,0 +1,14 @@
+.button{
+      padding: 10px;
+      border-radius: 0;
+      border: none;
+      font-weight: 600;
+}
+.button:hover{
+      cursor: pointer;
+}
+
+.basic-certificate{
+      width: 1600px;
+      height: 1000px;
+}
